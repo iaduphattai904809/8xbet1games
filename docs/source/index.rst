@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+8XBET - 8xbet1.games - Nền Tảng Cá Cược Trực Tuyến Hàng Đầu
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nhà cái `8XBET <https://8xbet1.games/>`_ là một nền tảng cá cược trực tuyến hàng đầu, cung cấp nhiều trò chơi từ thể thao, casino, xổ số đến e-sports. Tại 8XBET, người chơi có thể dễ dàng truy cập vào các trận đấu K League 1 Hàn Quốc với lịch thi đấu chi tiết và các tỷ lệ cược hấp dẫn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+8XBET không chỉ cung cấp trải nghiệm cá cược mượt mà và không bị gián đoạn, mà còn có nhiều phần thưởng và khuyến mãi hấp dẫn. Người chơi có thể yên tâm với hệ thống bảo mật tiên tiến và đội ngũ hỗ trợ 24/7. Đăng nhập 8XBET ngay để không bỏ lỡ những khoảnh khắc cá cược tuyệt vời cùng 8XBET.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 301 Tên Lửa, Bình Trị Đông B, Bình Tân, Hồ Chí Minh 700000, Việt Nam. 
 
-Contents
---------
+Phone: 0126656789. 
 
-.. toctree::
+Email: hotro@8xbet1.games. 
 
-   usage
-   api
+Website: https://8xbet1.games/
+
+#8xbet #nhacai8xbet #trangchu8xbet #dangky8xbet #link8xbet
